@@ -19,7 +19,10 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+          <Link to="/">
+            {/* {data.site.siteMetadata.title}\ */}
+            <img src="/assets/scoreup-logo.png" width="180" alt="Score Up Logo" />
+          </Link>
         </div>
         <Navigation />
       </header>

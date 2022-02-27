@@ -44,13 +44,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Score Up`,
+        short_name: `Score Up`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#381696`,
+        theme_color: `#FF1616`,
         display: `standalone`,
-        icon: "src/images/icon.png",
+        icon: "static/favicon.png",
       },
     },
     `gatsby-plugin-sass`, 
