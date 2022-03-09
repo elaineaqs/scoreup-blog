@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /lto-test-reviewer-english
 date: 2022-03-09T07:08:53.137Z
 title: 'LTO Test Reviewer: English'
 metaDescription: English reviewer to get a non-professional driver's license in the Philippines
